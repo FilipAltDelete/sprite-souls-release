@@ -11,7 +11,7 @@ the browser as WebAssembly via [pygbag](https://pygame-web.github.io).
 - **`sprite-souls-web.zip`** — the WebAssembly build. Unzip it and serve
   the folder over HTTP; opening `index.html` off the disk will not work.
 
-Latest release: **0.0.13** — the Windows and browser builds are
+Latest release: **0.0.14** — the Windows and browser builds are
 published independently, so a release may carry only one of them and the
 two can sit at different versions.
 
